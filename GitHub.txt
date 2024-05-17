@@ -1,2 +1,2 @@
-GitHub sample new file 
-pull from server 
+GitHub sample file 
+pull from Server 
